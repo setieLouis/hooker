@@ -5,3 +5,7 @@
 this type of working on client side side.
 ### Server hooks 
 this type of hook work on server size. 
+
+* pre-receive 
+* update 
+* pro-receive 
