@@ -1,6 +1,6 @@
 # This project is tutorial for undestand git hooks 
 
-## there is 2 type of hooks 
+## there are 2 type of hooks 
 ### client hooks 
 this type of working on client side side.
 ### Server hooks 
